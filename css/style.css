@@ -38,6 +38,12 @@ section.top-page {
     font-weight: 100;
    
 }
+.scroll-down{
+    color: white;
+    text-decoration: none;
+    position: absolute;
+    botton: 160px;
+}
 
 /* menu de navigation*/
 nav.nav{
@@ -51,4 +57,10 @@ nav.nav{
 
 nav.nav li{
     color: white;
+}
+
+/*services*/
+
+.services{
+    display: flex;
 }

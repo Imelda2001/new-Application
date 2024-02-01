@@ -26,6 +26,18 @@
     
     
     </section>
+    <section class="services">
+        <div class="service-item">
+            <i class="fas fa-store delivery-icon"></i>
+        </div>
+        <div class="service-item">
+            <i class="fas fa-people-carry delivery-icon"></i>
+
+        </div>
+        <div class="service-item">
+            <i class="fas fa-truck delivery-icon"></i>
+        </div>
+    </section>
     
 </body>
 </html>
