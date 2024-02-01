@@ -8,7 +8,7 @@
 <script src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.1/css/all.min.css"></script>
 </head>
 <body>
-    <section class="top-page">
+     <!-- <section class="top-page">
         <hearder class="hearder">
         <img src="images/logo.png" alt="logo du site"> 
         <nav class="nav">
@@ -23,21 +23,33 @@
     <a href="">Scroll <i class="fas fa-angle-down"></i></a>
     </div>
     
-    
-    
-    </section>
-    <section class="services">
+
+     </section> -->
+    <!--<section class="services">
         <div class="service-item">
             <i class="fas fa-store delivery-icon"></i>
+            <p class="service-details">Nos magasins a votre services</p>
         </div>
         <div class="service-item">
             <i class="fas fa-people-carry delivery-icon"></i>
-
+            <p class="service-details">Retrait en magasin sans contact</p>
         </div>
         <div class="service-item">
-            <i class="fas fa-truck delivery-icon"></i>
+            <i class="fap fa-truck delivery-icon"></i>
+             <p class="service-details">Livraison a domicile sans contact</p>
         </div>
     </section>
-    
+-->
+    <section class="bests-items">
+        <h2 class="section-title">
+            Nos meilleurs ventes
+        </h2>
+        <div class="best-plants">
+            <a href="" class="plant-box plant1"></a>
+            <a href="" class="plant-box plant2"></a>
+            <a href="" class="plant-box plant3"></a>
+            <a href="" class="plant-box plant4"></a>
+        </div>
+    </section>
 </body>
 </html>
